@@ -1,10 +1,10 @@
-package com.jesusfc.spring5FrameworkTest;
+package com.jesusfc.spring5Framework;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring5FrameworkTestApplicationTests {
+class Spring5FrameworkApplicationTests {
 
 	@Test
 	void contextLoads() {

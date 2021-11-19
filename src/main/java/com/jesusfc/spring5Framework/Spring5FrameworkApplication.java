@@ -1,13 +1,13 @@
-package com.jesusfc.spring5FrameworkTest;
+package com.jesusfc.spring5Framework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Spring5FrameworkTestApplication {
+public class Spring5FrameworkApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Spring5FrameworkTestApplication.class, args);
+		SpringApplication.run(Spring5FrameworkApplication.class, args);
 	}
 
 }
